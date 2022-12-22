@@ -15,8 +15,9 @@ Sam Ian
 ##### Key Findings:
 
 ### Clustering
-#### Link:
-##### Key Findings:
+#### Link: https://github.com/Brian-Scott25/Python-Bitcoin-Analysis/blob/main/ProjectClusteringStandardization.ipynb
+##### Key Findings: 
+The accuracy, precison, and recall scores for the clustered models did not improve. We concluded clustering was not necessary for this data. This is not surprising considering the best sillhouette score we were able to get was .36.
 
 ### Regression
 #### Link:
