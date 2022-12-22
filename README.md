@@ -25,7 +25,7 @@ The accuracy, precison, and recall scores for the clustered models did not impro
 ##### Key Findings:
 
 ### Classification
-#### Link:
-##### Key Findings:
+#### Link: https://github.com/Brian-Scott25/Python-Bitcoin-Analysis/blob/main/Classification.ipynb
+##### Key Findings: After using Niave Bayes and Decision Tree Classifiers we were able to determine the best model was for the 2 category decision tree model with a depth of 3. The test set accuracy was 62.7%. However, in the time period of our dataset, Bitcoin increased 51% of the time. Considering we are trying to predict something that has a 50/50 chance of increasing or decreasing, an accuracy in the 60s is signfcant. 
 
 
